@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\GitHub\\TestCode-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj": {}
+    "D:\\Code thầy Triều\\TestCode-main-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\GitHub\\TestCode-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj": {
+    "D:\\Code thầy Triều\\TestCode-main-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\TestCode-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj",
+        "projectUniqueName": "D:\\Code thầy Triều\\TestCode-main-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj",
         "projectName": "TrainingFPTCo",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\TestCode-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\TestCode-main\\ASP-MVC-Net-8\\TrainingFPTCo\\obj\\",
+        "projectPath": "D:\\Code thầy Triều\\TestCode-main-main\\ASP-MVC-Net-8\\TrainingFPTCo\\TrainingFPTCo.csproj",
+        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
+        "outputPath": "D:\\Code thầy Triều\\TestCode-main-main\\ASP-MVC-Net-8\\TrainingFPTCo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -97,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
